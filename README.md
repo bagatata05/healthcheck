@@ -32,7 +32,7 @@ A Flutter application for tracking and monitoring vital health metrics including
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/healthcheck.git
+git clone https://github.com/bagatata05/healthcheck.git
 cd healthcheck
 ```
 
